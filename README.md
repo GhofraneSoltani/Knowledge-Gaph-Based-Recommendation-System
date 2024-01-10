@@ -11,6 +11,7 @@ I'm Ghofrane, a Data Science engineering student with a passion for analyzing an
 📝 Personal Interests: In my free time, I enjoy reading, and exploring new data science projects.
 
 🤝 Contact Informations: Feel free to reach out to me on LinkedIn:https://www.linkedin.com/in/ghofranesoltani/ or via email at ghofranesoltani29@gmail.com
-Concerning Knowledge-Gaph-Based-Recommendation-System project
+
+# Concerning Knowledge-Gaph-Based-Recommendation-System project
 Development of a Conceptual graph Based Recommendation System for monitoring Project Risk Management issues : Ontology  Learning                                        
 Keywords : NLP/GNN/LSTM/computer vision techniques/transformers (Bert/roberta)
