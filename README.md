@@ -13,5 +13,6 @@ I'm Ghofrane, a Data Science engineering student with a passion for analyzing an
 🤝 Contact Informations: Feel free to reach out to me on LinkedIn:https://www.linkedin.com/in/ghofranesoltani/ or via email at ghofranesoltani29@gmail.com
 
 # Concerning Knowledge-Gaph-Based-Recommendation-System project
-Development of a Conceptual graph Based Recommendation System for monitoring Project Risk Management issues : Ontology  Learning                                        
+Development of a Conceptual graph Based Recommendation System for monitoring Project Risk Management issues : Ontology  Learning  
+Pre-processing and analysis of data from unstructured text (two documents: PMBOK and PMI) to automatically create an OWL ontology file. Then, evaluate the extracted knowledge and establish a system of recommendations for managing a project.
 Keywords : NLP/GNN/LSTM/computer vision techniques/transformers (Bert/roberta)
